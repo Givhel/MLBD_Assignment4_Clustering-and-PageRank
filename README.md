@@ -157,9 +157,7 @@ PageRank convergence over iterations:
 
 This assignment demonstrates how clustering, search indexing, and graph ranking are applied in real-world systems. It helped in building both conceptual understanding and practical implementation skills.
 
-## GitHub Repository
 
-GitHub Repo: [MLBD Assignment 4](https://github.com/Givhel/MLBD_Assignment4_Clustering-and-PageRank)
 
 
 
