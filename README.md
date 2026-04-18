@@ -20,7 +20,7 @@ The objective was to understand both the implementation and practical behavior o
 
 ---
 
-## ⚠️ Dataset Information (Important)
+##  Dataset Information (Important)
 
 The datasets are **not included in this repository**.  
 To run the project successfully, you must manually download and place them in the correct folders.
@@ -44,10 +44,12 @@ After downloading:
 This dataset is provided as part of the assignment files.
 
 Folder structure should be:
+'''
 Q2/
 ├── webpages/
 ├── actions.txt
 └── answers.txt
+'''
 
 Make sure all files are placed exactly in this structure.
 
