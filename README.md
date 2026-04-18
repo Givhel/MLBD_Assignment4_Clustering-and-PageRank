@@ -71,11 +71,14 @@ Place both files in the root directory of the project.
 ---
 
 ## Repository Structure
-Q1_Clustering.ipynb
-Q2_WebSearch.ipynb
-Q3_PageRank.ipynb
-Report.pdf
 
+```
+.
+├── Q1_Clustering.ipynb
+├── Q2_WebSearch.ipynb
+├── Q3_PageRank.ipynb
+└── M25CSA036_CSL7110_Assignment4.pdf
+```
 
 ---
 
