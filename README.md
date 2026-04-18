@@ -140,7 +140,7 @@ PageRank convergence over iterations:
 
 ## Assumptions
 
-- Stop words are ignored in search  
+- Stop words are ignored in the search  
 - All text is converted to lowercase  
 - Duplicate edges are treated as one  
 - Each node distributes rank equally among outgoing links  
@@ -153,6 +153,7 @@ This assignment demonstrates how clustering, search indexing, and graph ranking 
 ## GitHub Repository
 
 [Repo_Link](https://github.com/Givhel/MLBD_Assignment4_Clustering-and-PageRank)
+
 
 
 
