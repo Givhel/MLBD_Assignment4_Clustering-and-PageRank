@@ -44,12 +44,14 @@ After downloading:
 This dataset is provided as part of the assignment files.
 
 Folder structure should be:
-'''
+
+```
 Q2/
 ├── webpages/
 ├── actions.txt
 └── answers.txt
-'''
+```
+
 
 Make sure all files are placed exactly in this structure.
 
