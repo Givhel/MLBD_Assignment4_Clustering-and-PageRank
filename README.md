@@ -159,8 +159,7 @@ This assignment demonstrates how clustering, search indexing, and graph ranking 
 
 ## GitHub Repository
 
-Github Repo Link: (https://github.com/Givhel/MLBD_Assignment4_Clustering-and-PageRank/edit/main/README.md)
-
+GitHub Repo: [MLBD Assignment 4](https://github.com/Givhel/MLBD_Assignment4_Clustering-and-PageRank)
 
 
 
